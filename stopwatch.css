@@ -1,0 +1,75 @@
+body{
+                  background-color: black;
+                }
+            .container{
+                position:absolute;
+                left:50%;
+                top:50%;
+                transform: translate(-50%,-50%);
+
+            }
+           #hour{
+                font-size: 32px;
+                text-align: center;
+                color:whitesmoke;
+                margin-bottom: 20px;
+                
+            }
+            #min{
+                 font-size: 32px;
+                 text-align: center;
+                 color:whitesmoke;
+                 margin-bottom: 20px;
+
+            }
+            #sec{
+                 font-size: 32px;
+                 text-align: center;
+                 color:whitesmoke;
+                 margin-bottom: 20px;
+
+            }
+            #start{
+                width:100px;
+                height:40px;
+                font-size: 20px;
+                background-color: black;
+                color:cadetblue;
+                border:2px solid white;
+                border-radius:5px;
+                float:right; 
+            }
+
+            #resume{
+                display:none;
+                width:100px;
+                height:40px;
+                font-size: 20px;
+                background-color: black;
+                color:green;
+                border:2px solid white;
+                border-radius:5px;
+                float:right; 
+            }
+            #stop{
+                display:none;
+                width:100px;
+                height:40px;
+                font-size: 20px;
+                background-color: black;
+                color:red;
+                border:2px solid white;
+                border-radius:5px;
+                float:right;
+            }
+
+            #reset{
+                width:100px;
+                height:40px;
+                font-size: 20px;
+                background-color:black;
+                color:cadetblue;
+                border:2px solid white;
+                border-radius:5px;
+               
+            }
