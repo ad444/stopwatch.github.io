@@ -1,4 +1,4 @@
- var sec = 0;   //Global variable
+               var sec = 0;   //Global variable
                var min=0;     //Global variable
                var hour=0;    //Global variable
 
