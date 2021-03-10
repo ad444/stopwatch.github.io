@@ -1,3 +1,3 @@
-# ad444.github.io
+# stopwatch.github.io
 Javascript based Stop Watch with resume option
 
