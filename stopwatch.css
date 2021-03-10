@@ -8,7 +8,10 @@
                 transform: translate(-50%,-50%);
 
             }
-           #hour{
+            .container h5{
+                color:whitesmoke;
+            }
+            #hour{
                 font-size: 32px;
                 text-align: center;
                 color:whitesmoke;
