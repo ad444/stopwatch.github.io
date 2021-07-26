@@ -1,3 +1,3 @@
-# stopwatch.github.io
-Javascript based Stop Watch with resume option
+# Stopwatch
+Vanilla Javascript based Stopwatch with userfriendly UI
 
